@@ -1,9 +1,11 @@
-import React from 'react'
-
 const AboutPage = () => {
   return (
-    <div><h1>hay</h1></div>
+    <div>AboutPage</div>
   )
 }
 
 export default AboutPage
+
+// rafce  rfc
+
+

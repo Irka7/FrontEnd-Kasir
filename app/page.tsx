@@ -2,8 +2,10 @@ import React from 'react'
 
 const HomePage = () => {
   return (
-    <div>Ini halaman HomePage</div>
-  )
+    <div>
+      <h1>Ini halaman HomePage</h1>
+    </div>
+  );
 }
 
 export default HomePage
